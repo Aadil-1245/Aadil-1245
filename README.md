@@ -23,7 +23,7 @@
 
 ## 🚀 Featured Live Projects
 
-> Click any project to see it live. All are dark-theme friendly 😈
+> Click any project to see it live. 
 
 ### 🧬 1. Apple Landing Page Clone  
 A smooth, animated landing page inspired by Apple’s product style.
@@ -53,7 +53,7 @@ A visually rich **anime-inspired website** with modern UX animations.
 
 ---
 
-## 🎥 Startup Demo – Refro Prep (Video)
+## 🎥 Startup  – Refro Prep (Video)
 
 > 🔧 Replace the YouTube link or file path with your real demo once ready.
 

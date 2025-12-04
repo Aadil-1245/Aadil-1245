@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dark%20Theme%20Only-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To%20Collaborations-7F00FF?style=for-the-badge" />
 </p>
 
@@ -108,14 +107,6 @@ Option 2: Local MP4 in this repo (uncomment after adding file)
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-
-
----
-
-
 
 ---
 

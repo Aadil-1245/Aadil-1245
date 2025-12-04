@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Dark%20Theme%20Only-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dark%20Theme%20Only-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To%20Collaborations-7F00FF?style=for-the-badge" />
 </p>
 
 ---
@@ -53,6 +53,26 @@ A visually rich **anime-inspired website** with modern UX animations.
 
 ---
 
+## 🎥 Startup Demo – Refro Prep (Video)
+
+> 🔧 Replace the YouTube link or file path with your real demo once ready.
+
+<!-- Option 1: YouTube Video Thumbnail (replace VIDEO_ID) -->
+<p align="center">
+  <a href="https://www.linkedin.com/posts/refro07_webdevelopment-seo-placements-activity-7375563466440544258-bqEf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MvskBrRHmGL0Ay5TCb9TAkQM-yxVIytY" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Refro Prep Demo" width="600" />
+  </a>
+</p>
+
+<!-- 
+Option 2: Local MP4 in this repo (uncomment after adding file)
+<p align="center">
+  <video src="startup-demo.mp4" width="600" controls></video>
+</p>
+-->
+
+---
+
 ## 🌱 Currently Learning
 
 <p align="center">
@@ -94,12 +114,12 @@ A visually rich **anime-inspired website** with modern UX animations.
 ## 📊 GitHub Stats (Dark Mode Only)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadil-1245&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aadil-1245&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadil-1245&theme=radical&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aadil-1245&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-1245&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-1245&theme=radical&layout=compact&hide_border=true" height="160" />
 </p>
 
 ---
@@ -107,7 +127,7 @@ A visually rich **anime-inspired website** with modern UX animations.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadil-1245&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aadil-1245&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---

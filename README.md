@@ -55,7 +55,7 @@ A visually rich **anime-inspired website** with modern UX animations.
 
 ## 🎥 Startup  – Refro Prep (Video)
 
-> 🔧 Replace the YouTube link or file path with your real demo once ready.
+
 
 <!-- Option 1: YouTube Video Thumbnail (replace VIDEO_ID) -->
 <p align="center">

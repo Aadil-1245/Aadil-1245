@@ -13,11 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Working on: **AI-powered web apps, startup products & React projects**
-- 🚀 Founder / Builder: experimenting with **Refro Prep** & **RefroSpark**
-- 🌱 Currently learning: **Agentic AI agents, MCP servers, Advanced React & AI tooling**
-- 💬 Ask me about: **Frontend, JavaScript, React, Python & AI project ideas**
-- ⚡ Fun fact: **I break things while building — then fix them like a pro 😎**
+- 🔭 Working on: AI-powered web apps, startup products & React projects
+- 🚀 Founder / Builder: experimenting with Refro Prep & RefroSpark
+- 🌱 Currently learning: Agentic AI agents, MCP servers, Advanced React & AI tooling
+- 💬 Ask me about: Frontend, JavaScript, React, Python & AI project ideas
+- ⚡ Fun fact: I break things while building then fix them like a pro 😎
 
 ---
 
@@ -111,24 +111,11 @@ Option 2: Local MP4 in this repo (uncomment after adding file)
 
 ---
 
-## 📊 GitHub Stats (Dark Mode Only)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadil-1245&theme=radical&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aadil-1245&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-1245&theme=radical&layout=compact&hide_border=true" height="160" />
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadil-1245&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
 
 ---
 
